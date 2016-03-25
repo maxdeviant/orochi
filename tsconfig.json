@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "dist/",
+        "rootDir": "src/",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "declaration": false,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "sourceMap": true,
+        "newLine": "LF"
+    },
+    "atom": {
+        "rewriteTsconfig": true,
+        "formatOnSave": true
+    },
+    "filesGlob": [
+        "typings/main.d.ts",
+        "src/**/*.ts"
+    ],
+    "files": [
+        "typings/main.d.ts",
+        "src/orochi-init.ts",
+        "src/orochi.ts"
+    ]
+}
