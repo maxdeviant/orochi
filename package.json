@@ -1,0 +1,19 @@
+{
+  "name": "orochi",
+  "version": "1.0.0",
+  "description": "大蛇",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxdeviant/orochi.git"
+  },
+  "author": "Marshall Bowers <elliott.codes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxdeviant/orochi/issues"
+  },
+  "homepage": "https://github.com/maxdeviant/orochi#readme"
+}
